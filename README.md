@@ -17,4 +17,10 @@ const firebaseConfig = {
 ```
 
 firebase cloud firestore - region - tokyo
-[image](./assets/Screenshot 1.png)
+
+![Screenshot](./assets/Screenshot 1.png)
+
+Still core error
+
+
+![Screenshot](./assets/Screenshot 2.png)
