@@ -18,8 +18,8 @@ const firebaseConfig = {
 
 ## firebase cloud firestore - region - tokyo
 
-![img]('./assets/Screenshot 1.png')
+![ScreenShot](https://raw.github.com/huybinhvn/chat-firebase/main/assets/Screenshot_1.png)
 
 ## Still core error
 
-![img]('./assets/Screenshot 2.png')
+![ScreenShot](https://raw.github.com/huybinhvn/chat-firebase/main/assets/Screenshot_2.png)
