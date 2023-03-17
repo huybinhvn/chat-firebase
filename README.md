@@ -17,4 +17,4 @@ const firebaseConfig = {
 ```
 
 firebase cloud firestore - region - tokyo
-
+[image](./assets/Screenshot 1.png)
